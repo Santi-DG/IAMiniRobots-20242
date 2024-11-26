@@ -7,7 +7,7 @@ Este repositorio contiene las entregas correspondientes a las tareas asignadas e
 ## Autómatas Celulares
 [02-AutomatasCelulares](https://github.com/Santi-DG/IAMiniRobots-20242/tree/main/02-AutomatasCelulares)
 ## Entrega 3
-[03-Entrega 3](https://github.com/Santi-DG/IAMiniRobots-20242/tree/main/03-ggg)
+[03-Entrega 3]()
 
 # Integrantes
 - Santiago Diaz
