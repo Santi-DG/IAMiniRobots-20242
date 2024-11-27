@@ -17,6 +17,7 @@ Una gran parte de las interacciones y comportamientos que tenemos a diario, vien
    - Mantener un nivel de ruido adecuado.
 ## 2. Modelo de un incendio forestal usando AC´s probabilísticos
 ![Modelo de incendio](https://github.com/Santi-DG/IAMiniRobots-20242/blob/e71c5e038507501a61006581bec6feebac195ec6/02-Aut%C3%B3matasCelulares/Incendio.gif)
-El código comentado se encuentra en .....
+
+El código comentado se encuentra en 
 
 
