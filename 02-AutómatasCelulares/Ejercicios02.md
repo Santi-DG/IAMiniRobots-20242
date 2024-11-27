@@ -20,4 +20,5 @@ Una gran parte de las interacciones y comportamientos que tenemos a diario, vien
 
 El código comentado se encuentra en [Código AC´s](https://github.com/Santi-DG/IAMiniRobots-20242/blob/21ebaf587996f2b06daa58ff5803ce59784531e1/02-Aut%C3%B3matasCelulares/Modelo%20incendio.py)
 
-
+## 3. Diagrama de Voronoi
+Con el fin de poder aplicar y dar un análisis de un diagrama, se escogió una zona de Bogotá para determinar si hacía falta algún hospital en una localidad específica. A continuación se muestran los hospitales existentes en una de sus zonas:
