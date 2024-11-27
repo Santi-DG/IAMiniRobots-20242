@@ -25,5 +25,7 @@ Con el fin de poder aplicar y dar un análisis de un diagrama, se escogió una z
 ![Mapa hospitales](https://github.com/Santi-DG/IAMiniRobots-20242/blob/e621e6d628fdd2b251172c269018dab83bb9cd1d/02-Aut%C3%B3matasCelulares/Archivos/mapa.PNG)
 Con ayuda de un software generamos el diagrama de Voronoi de los hospitales de la zona:
 ![Diagrama](https://github.com/Santi-DG/IAMiniRobots-20242/blob/e621e6d628fdd2b251172c269018dab83bb9cd1d/02-Aut%C3%B3matasCelulares/Archivos/Voronoi%20sobre%20mapa.PNG)
+
 ![Diagrama Voronoi](https://github.com/Santi-DG/IAMiniRobots-20242/blob/e621e6d628fdd2b251172c269018dab83bb9cd1d/02-Aut%C3%B3matasCelulares/Archivos/Voronoi.PNG)
 
+A partir del último diagrama se puede decir que hay una falta de hospitales en la parte superior de la localidad. Hay una concentración de ellos en la parte central mientras que en la parte inferior hay una distribución aceptable de hospitales en términos de distancia.
