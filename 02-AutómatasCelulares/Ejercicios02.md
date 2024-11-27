@@ -17,13 +17,16 @@ Una gran parte de las interacciones y comportamientos que tenemos a diario, vien
    - Mantener un nivel de ruido adecuado.
 ## 2. Modelo de un incendio forestal usando AC´s probabilísticos
 ![Modelo de incendio](https://github.com/Santi-DG/IAMiniRobots-20242/blob/8447798af07aaf5595a5dccc059ca7c92a5aca40/02-Aut%C3%B3matasCelulares/Archivos/Incendio.gif)
-<img src="<img src="ruta/relativa/imagen.extension" alt="Texto alternativo" width="300" height="200"/>" alt="Mapa" width="300" height="200"/>
+
 El código comentado se encuentra en [Código AC´s](https://github.com/Santi-DG/IAMiniRobots-20242/blob/ca4ad2ddf5f3bafd9ef6e44e8ecc0b071e659af0/02-Aut%C3%B3matasCelulares/Archivos/Modelo%20incendio.py)
 
 ## 3. Diagrama de Voronoi
 Con el fin de poder aplicar y dar un análisis de un diagrama, se escogió una zona de Bogotá para determinar si hacía falta algún hospital en una localidad específica. A continuación se muestran los hospitales existentes en una de sus zonas:
+
 ![Mapa hospitales](https://github.com/Santi-DG/IAMiniRobots-20242/blob/e621e6d628fdd2b251172c269018dab83bb9cd1d/02-Aut%C3%B3matasCelulares/Archivos/mapa.PNG)
+
 Con ayuda de un software generamos el diagrama de Voronoi de los hospitales de la zona:
+
 ![Diagrama](https://github.com/Santi-DG/IAMiniRobots-20242/blob/e621e6d628fdd2b251172c269018dab83bb9cd1d/02-Aut%C3%B3matasCelulares/Archivos/Voronoi%20sobre%20mapa.PNG)
 
 ![Diagrama Voronoi](https://github.com/Santi-DG/IAMiniRobots-20242/blob/e621e6d628fdd2b251172c269018dab83bb9cd1d/02-Aut%C3%B3matasCelulares/Archivos/Voronoi.PNG)
