@@ -15,5 +15,6 @@ Una gran parte de las interacciones y comportamientos que tenemos a diario, vien
    - Ceder el puesto de forma prioritaria.
    - Mantener una fila para ingresar o descender.
    - Mantener un nivel de ruido adecuado.
-   
+## 2. Modelo de un incendio forestal usando AC´s probabilísticos
+El código comentado se encuentra en 
 
