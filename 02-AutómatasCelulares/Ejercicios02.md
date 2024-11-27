@@ -18,7 +18,7 @@ Una gran parte de las interacciones y comportamientos que tenemos a diario, vien
 ## 2. Modelo de un incendio forestal usando AC´s probabilísticos
 ![Modelo de incendio](https://github.com/Santi-DG/IAMiniRobots-20242/blob/8447798af07aaf5595a5dccc059ca7c92a5aca40/02-Aut%C3%B3matasCelulares/Archivos/Incendio.gif)
 
-El código comentado se encuentra en [Código AC´s](https://github.com/Santi-DG/IAMiniRobots-20242/blob/21ebaf587996f2b06daa58ff5803ce59784531e1/02-Aut%C3%B3matasCelulares/Modelo%20incendio.py)
+El código comentado se encuentra en [Código AC´s](https://github.com/Santi-DG/IAMiniRobots-20242/blob/ca4ad2ddf5f3bafd9ef6e44e8ecc0b071e659af0/02-Aut%C3%B3matasCelulares/Archivos/Modelo%20incendio.py)
 
 ## 3. Diagrama de Voronoi
 Con el fin de poder aplicar y dar un análisis de un diagrama, se escogió una zona de Bogotá para determinar si hacía falta algún hospital en una localidad específica. A continuación se muestran los hospitales existentes en una de sus zonas:
