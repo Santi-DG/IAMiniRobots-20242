@@ -1,9 +1,19 @@
 # Autómatas Celulares
 ## 1.Reglas básicas
-Una gran parte de las interacciones y comportamientos que tenemos a diario, vienen influenciados por reglas básicas o convenciones sociales no formales propias de cada entorno. Al observar los comportamientos comunes que tienen las personas en diferentes entornos se pudieron identificar varias reglas en distintos entornos:
+Una gran parte de las interacciones y comportamientos que tenemos a diario, vienen influenciados por reglas básicas o convenciones sociales no formales propias de cada entorno. Al observar los comportamientos comunes que tienen las personas en diferentes entornos se pudieron identificar varias "reglas" en distintos entornos:
 1. En el hogar:
    - Comunicación amable y respetuosa.
    - Cumplir tares que contribuyan a mantener el orden.
    - Higiene y aseo personal.
+   - Uso responsable de los servicios públicos.
+2. En la universidad:
+   - Participación e intercambio de ideas de manera respetuosa.
+   - Puntualidad en los horarios.
+   - Mantener un nivel de ruido adecuado dentro de los edificios.
+3. En el tranporte público:
+   - En el caso de los buses tradicionales o SITP, ubicarse de forma progresiva en la parte posterior para facilitar el ingreso de los usuarios.
+   - Ceder el puesto de forma prioritaria.
+   - Mantener una fila para ingresar o descender.
+   - Mantener un nivel de ruido adecuado.
    
 
