@@ -1,1 +1,1 @@
-
+Reglas básicas
