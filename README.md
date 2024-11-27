@@ -5,7 +5,7 @@ Este repositorio contiene las entregas correspondientes a las tareas asignadas e
 ## Panorama de la IA
 [01-PanoramaIA](https://github.com/Santi-DG/IAMiniRobots-20242/tree/main/01-PanoramaIA)
 ## Autómatas Celulares
-[02-AutomatasCelulares](https://github.com/Santi-DG/IAMiniRobots-20242/tree/main/02-AutomatasCelulares)
+[02-AutomatasCelulares](https://github.com/Santi-DG/IAMiniRobots-20242/tree/main/02-AutómatasCelulares)
 ## Entrega 3
 [03-Entrega 3]()
 
