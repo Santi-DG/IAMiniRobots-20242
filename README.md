@@ -8,6 +8,8 @@ Este repositorio contiene las entregas correspondientes a las tareas asignadas e
 [02-AutomatasCelulares](https://github.com/Santi-DG/IAMiniRobots-20242/tree/main/02-AutómatasCelulares)
 ## Entrega 3
 [03-Entrega 3]()
+## Programación Genética
+[04-ProgramacionGenetica](https://github.com/Santi-DG/IAMiniRobots-20242/tree/main/04-ProgramacionGenetica)
 
 # Integrantes
 - Santiago Diaz
