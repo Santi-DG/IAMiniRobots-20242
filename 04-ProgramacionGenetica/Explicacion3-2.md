@@ -1,3 +1,6 @@
+## 4.2
+Suponga que desea utilizar Programación Genética para encontrar el diseño de un circuito lógico, tome como, ejemplo el codificador de 7 segmentos. Describa el conjunto de terminales, el conjunto de funciones y la función de aptitud.
+
 ## Sección 1: Definición de Conjuntos de Terminales y Funciones
 
 * **Línea 7:** `pset = gp.PrimitiveSet("MAIN", 4)` - Crea un conjunto de primitivas llamado "MAIN" con 4 argumentos de entrada.
